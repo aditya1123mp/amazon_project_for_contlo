@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>full_test_case_with_pagination</description>
+   <name>full_test_case_with_pagination</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2bb3ad53-95c5-4275-9d88-574158760cb9</testCaseGuid>
+</TestCaseEntity>

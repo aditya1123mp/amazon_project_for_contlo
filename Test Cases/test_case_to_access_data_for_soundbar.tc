@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>test_case_to_access_data_for_soundbar</description>
+   <name>test_case_to_access_data_for_soundbar</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>eb58f386-bddb-4ed0-ba68-678adc3d2457</testCaseGuid>
+</TestCaseEntity>

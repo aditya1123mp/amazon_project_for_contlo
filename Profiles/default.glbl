@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>productcount</description>
+      <initValue>''</initValue>
+      <name>productcount</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>product_name</description>
+      <initValue>''</initValue>
+      <name>product_name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>product_price</description>
+      <initValue>''</initValue>
+      <name>product_price</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>brand_name</description>
+      <initValue>''</initValue>
+      <name>brand_name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>speaker_output_power</description>
+      <initValue>''</initValue>
+      <name>speaker_output_power</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>your_email</description>
+      <initValue>'aditya_T2_WORK@outlook.com'</initValue>
+      <name>your_email</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>your_email_password</description>
+      <initValue>'Fiboo112358@@'</initValue>
+      <name>your_email_password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>recipient_email</description>
+      <initValue>'aditya1993tue@gmail.com'</initValue>
+      <name>recipient_email</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

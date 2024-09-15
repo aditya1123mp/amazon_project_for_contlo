@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test_case_to_count_the_number_of_products_on_first_page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1cd42667-2e03-4ce4-b035-c63684f43eb6</testCaseGuid>
+</TestCaseEntity>

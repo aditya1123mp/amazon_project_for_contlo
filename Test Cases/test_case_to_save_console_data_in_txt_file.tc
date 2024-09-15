@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test_case_to_save_console_data_in_txt_file</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7a7ec82f-7128-4d68-9d94-56afe73ca4d8</testCaseGuid>
+</TestCaseEntity>

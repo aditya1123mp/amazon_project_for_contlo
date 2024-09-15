@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test_case_to_iterate_through_products_and_save_in_excel</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a0f4aea4-49b1-463c-a543-e10419e78334</testCaseGuid>
+</TestCaseEntity>
