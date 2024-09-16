@@ -30,17 +30,17 @@
       <name>speaker_output_power</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>enter_your_email_id</description>
+      <description>enter_your_Email_id</description>
       <initValue>''</initValue>
       <name>your_email</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>enter_your_email_id_password</description>
+      <description>enter_your_Email_id_password</description>
       <initValue>''</initValue>
       <name>your_email_password</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description>enter_recipient_email_id</description>
+      <description>enter_recipient_Email_id</description>
       <initValue>''</initValue>
       <name>recipient_email</name>
    </GlobalVariableEntity>
