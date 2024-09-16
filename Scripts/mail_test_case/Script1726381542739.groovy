@@ -50,7 +50,7 @@ try {
 	message.setRecipients(Message.RecipientType.TO, InternetAddress.parse(GlobalVariable.recipient_email)) // Replace with recipient email
 
 	// Set Subject: header field
-	message.setSubject("Automation Test Results for ls soundbar")
+	message.setSubject("Automation Test Results for ls soundbar By Aditya Agarwal")
 
 	// Create the message part
 	BodyPart messageBodyPart = new MimeBodyPart()
@@ -68,7 +68,7 @@ try {
 	String[] filenames = [
 		"C:\\Users\\DELL\\OneDrive\\Desktop\\mail\\amazon_ls_soundbar_pagination.xlsx",
 		"C:\\Users\\DELL\\OneDrive\\Desktop\\mail\\amazon_ls_speaker_product_data.xlsx",
-		"C:\\Users\\DELL\\OneDrive\\Desktop\\mail\\ls_soundbar_pagination.txt",
+		"C:\\Users\\DELL\\OneDrive\\Desktop\\mail\\ls_speaker_data_pagination.txt",
 		"C:\\Users\\DELL\\OneDrive\\Desktop\\mail\\ls_speaker_data.txt"
 	]
 

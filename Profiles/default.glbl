@@ -31,17 +31,17 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>your_email</description>
-      <initValue>'aditya_T2_WORK@outlook.com'</initValue>
+      <initValue>''</initValue>
       <name>your_email</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>your_email_password</description>
-      <initValue>'Fiboo112358@@'</initValue>
+      <initValue>''</initValue>
       <name>your_email_password</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>recipient_email</description>
-      <initValue>'aditya1993tue@gmail.com'</initValue>
+      <initValue>''</initValue>
       <name>recipient_email</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
